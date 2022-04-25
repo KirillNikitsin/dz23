@@ -1,4 +1,5 @@
 import java.util.*;
+//как сделать несколько одинаковых ключей в Мар я не разобрался
 
 public class dz23 {
     static class Slova {
